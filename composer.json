@@ -3,6 +3,8 @@
     "description": "This package will provide functionality to add coma separated ID relations for Laravel Eloquent models",
     "require": {
         "laravel/framework": ">=5"
+        "has-column-many/framework": "master@dev"
+
     },
     "license": "MIT",
     "autoload": {
